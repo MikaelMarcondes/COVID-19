@@ -1,2 +1,2 @@
 # COVID-19
-Place to leave files regarding genomic sequences of SARS-CoV-2, R scripts and so on.
+Place to leave files of raw genomic sequences of SARS-CoV-2, aligned sequences using MAFFT, NEXUS files, phylogenetic trees using PAUP*, R scripts for own multiple sequence alignment and/or distance-based methods and so on.
